@@ -1,0 +1,11 @@
+'\
+            <div class="cycle-slideshow" data-cycle-slides=".' + idSlider + '" data-cycle-pager="#page-slide-' + idSlider + '" id="' + idSlider +
+                '"> \n\
+                <ul> \n\
+                    ' + item + ' \n\
+                </ul> \n\
+                <div class="page-slide" id="page-slide-' +
+                idSlider + '"></div> \n\
+                <span class="bt-nav close close-lightbox"><em>Close</em></span> \n\
+            </div> \
+        '
